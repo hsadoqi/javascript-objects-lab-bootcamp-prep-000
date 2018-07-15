@@ -1,5 +1,5 @@
 var recipes = {a: 1};
 
-function updateObjectWithKeyAndValue (recipes, ingredient, measurement){
+function updateObjectWithKeyAndValue(object, key, value){
   recipes[ingredient] = measurement
 }
