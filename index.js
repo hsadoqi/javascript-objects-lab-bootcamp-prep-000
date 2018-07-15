@@ -6,3 +6,5 @@ function updateObjectWithKeyAndValue(object, key, value){
 }
 
 updateObjectWithKeyAndValue (recipes, a, 2)
+
+recipes
