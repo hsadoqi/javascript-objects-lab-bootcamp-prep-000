@@ -1,1 +1,2 @@
-var 
+var recipes = {a = 1};
+
