@@ -1,2 +1,2 @@
-var recipes = {a = 1};
+var recipes = {a: 1};
 
